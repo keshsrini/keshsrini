@@ -1,135 +1,105 @@
 # Keshav Srinivas M - Portfolio
 
-## 👋 Hello, I'm Keshav Srinivas M
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+Keshav+Srinivas+M;Data+Science+%26+AI+Enthusiast;Cloud+Computing+Specialist;Full-Stack+Developer)
 
-**Celebal Summer Intern | Oracle Certified Foundation AI Associate 🏆 | 13X AWS Badges🎖️ | 2X HackerRank Certified⭐ | Google Cloud Arcade Facilitator'25 | Cloud Enthusiast☁️ | MERN Developer | Programming Fanatic | Data Science Learner | Machine Learning**
+</div>
 
 ## 🚀 About Me
 
-Hello! My name is Keshav. I am a trailblazing data science and machine learning professional with hands-on expertise in AWS cloud technologies. Skilled in leveraging advanced analytics, generative AI, and cloud infrastructures to drive transformative business outcomes. Recognized as a top academic performer, bringing a relentless passion for uncovering insights and delivering impactful solutions.
+<div align="center">
+  
+```diff
++ Passionate about AI/ML | Cloud Computing | Full-Stack Development
+! 13x AWS Certified | Oracle AI Certified | Google Cloud Facilitator
+# Open to collaborations and innovative projects
+</div>
+🛠 Tech Stack
+<div align="center">
+Programming Languages
+https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
+https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
 
-## 🛠 Technical Skills
+Web Technologies
+https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 
-### Programming Languages
-- Python
-- C
-- C++
+Cloud & DevOps
+https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
-### Web Technologies
-- HTML
-- CSS
-- Node.js
-- React
-- Express
+</div>
+📊 GitHub Stats
+<div align="center"><!-- GitHub Stats Cards --><a href="https://github.com/keshsrini"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshsrini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshsrini&layout=compact&langs_count=8&theme=algolia"/> </a><!-- GitHub Streak Stats --><img src="https://github-readme-streak-stats.herokuapp.com/?user=keshsrini&theme=algolia" alt="keshsrini" /><!-- GitHub Activity Graph -->
+https://github-readme-activity-graph.vercel.app/graph?username=keshsrini&theme=react-dark&hide_border=true&area=true
 
-### Database Systems
-- MongoDB Atlas
-- Amazon DynamoDB
-- Amazon RDS
+</div>
+🏆 GitHub Trophies
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=keshsrini&theme=algolia&no-frame=true&no-bg=true&margin-w=4
 
-### Cloud Technologies
-- AWS Cloud
-- GCP Cloud
+</div>
+💼 Experience
+<details> <summary><b>Data Engineer Intern - Celebal Technologies</b></summary> <br>
+🕰️ Duration: May 2025 - Present
+📍 Location: Jaipur, India (Remote)
+📌 Responsibilities:
 
-### DevOps & Version Control
-- Git
-- GitHub
+Working on data integration and ETL processes
 
-### Specialized Areas
-- NLP
-- Machine Learning
-- Cloud Computing
-- Data Visualization
+Developing cloud-based data solutions
 
-### Mathematical & Statistical Tools
-- Correlation
-- Regression
-- ANOVA
-- Probability Distributions
-- Linear Algebra
+Collaborating with cross-functional teams
 
-### Other Tools & Technologies
-- Visual Studio Code
-- Google Colab
-- TensorFlow
-- Flask
-- Postman API
+Designing scalable data architectures
 
-## 💼 Experience
+</details><details> <summary><b>Backend Developer Intern - Dexwox Innovation</b></summary> <br>
+🕰️ Duration: March 2024 - Present
+📍 Location: Remote
+📌 Responsibilities:
 
-### **Data Engineer Intern** - Celebal Technologies
-- **Duration**: May 2025 - Present
-- **Location**: Jaipur, India (Remote)
-- Currently working as a Data Engineer intern, focusing on data integration, ETL processes, and cloud-based data solutions. Collaborating with cross-functional teams to design and implement scalable data architectures.
+Building robust APIs and server-side applications
 
-### **Backend Developer Intern** - Dexwox Innovation
-- **Duration**: March 2024 - Present
-- **Location**: Remote
-- Engaged in backend development projects, focusing on building robust APIs and server-side applications. Utilized technologies such as Node.js, Express, and MongoDB to create scalable web applications.
+Using Node.js, Express, and MongoDB
 
-### **Google Cloud Arcade Facilitator'25** - Google Cloud
-- **Duration**: April 2025 - June 2025
-- **Location**: Virtual
-- Participated in the Google Cloud Arcade program, learning cloud computing concepts and hands-on labs.
+Creating scalable web applications
 
-### **AI Intern** - Edunet Foundation (AICTE)
-- **Duration**: November 2024 - December 2024
-- **Location**: Remote
-- Completed an AI internship under the All India Council for Technical Education (AICTE) with Edunet Foundation. Gained hands-on experience in AI technologies, including machine learning and data analysis.
+Implementing backend logic
 
-### **Web Developer Intern** - CodeClause
-- **Duration**: July 2024 - August 2024
-- **Location**: Remote
-- Worked as a Web Developer intern, focusing on front-end development. Developed responsive web applications using HTML, CSS, and JavaScript.
+</details><!-- More experience items in same format -->
+🎓 Education
+<table> <tr> <td width="30%"> <div align="center"> <img src="https://via.placeholder.com/150" alt="SJCE Logo" width="100"> <br> <b>St. Joseph's College of Engineering</b> </div> </td> <td> <b>Bachelor of Technology in AI & Data Science</b><br> 🕰️ 2023 - 2027 | CGPA: 9.26/10<br> 📍 Chennai, Tamil Nadu<br> 📌 Relevant Coursework:<br> - Data Structures & Algorithms<br> - Machine Learning<br> - Cloud Computing<br> - Database Management Systems </td> </tr> <!-- More education items in same format --> </table>
+🔥 LeetCode Stats
+<div align="center">
+https://leetcard.jacoblin.cool/keshavsrini?theme=dark&font=Roboto
 
-## 🎓 Education
+</div>
+📜 Certifications
+<div align="center"><!-- Certification Badges --><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" title="Oracle AI Certified"> <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" title="AWS Certified"> <img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="80" title="Google Cloud Certified"></div>
+🎯 Goals for 2025
+Complete AWS Professional Certification
 
-### **Bachelor of Technology in Artificial Intelligence and Data Science**
-- **Institution**: St. Joseph's College of Engineering
-- **Duration**: 2023 - 2027
-- **CGPA**: 9.26/10
-- **Location**: Chennai, Tamil Nadu
+Publish 2 research papers in AI/ML
 
-### **Higher Secondary Education**
-- **Institution**: Jawahar Higher Secondary School - CBSE
-- **Duration**: 2022 - 2023
-- **Percentage**: 92.2%
-- **Location**: Neyveli, Tamil Nadu
+Contribute to 5+ open source projects
 
-### **Secondary Education**
-- **Institution**: Jawahar Higher Secondary School - CBSE
-- **Duration**: 2020 - 2021
-- **Percentage**: 92.4%
-- **Location**: Neyveli, Tamil Nadu
+Develop a SaaS product
 
-## 🏆 Achievements
+📫 Let's Connect!
+<div align="center">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-- Completed 100 days of LeetCode Challenge
-- Solved 270+ problems on LeetCode
-- Participated in ICPC 2024 Competition
-- Secured 9.26 CGPA in semester examination
+</div><div align="center">
+https://profile-counter.glitch.me/keshsrini/count.svg
 
-## 📜 Certifications
-
-- **Problem Solving (Intermediate)** - HackerRank (April 2025)
-- **Problem Solving (Basic)** - HackerRank (December 2024)
-- **Google Cloud Computing Foundations** - NPTEL (November 2024)
-- **Oracle Certified AI Foundations Associate** - Oracle (October 2024)
-- **Python for Data Science** - NPTEL (April 2024)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavsrini1525/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshsrini)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/keshavsrini/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/keshavsrinivasm)
-[![Credly](https://img.shields.io/badge/Credly-FF5800?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/keshav-srinivas-m)
-
-## 📫 Contact Me
-
-- **Email**: keshsrinivasm@gmail.com
-- **Instagram**: [@keshavsrini](https://www.instagram.com/keshavsrini)
-
----
-
-⭐️ From [Keshav Srinivas M](https://github.com/keshsrini)
+</div>
