@@ -1,105 +1,167 @@
-# Keshav Srinivas M - Portfolio
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Keshav+Srinivas+M+%F0%9F%91%8B;Data+Science+%26+AI+Enthusiast;MERN+Stack+Developer;Cloud+Computing+Specialist;Machine+Learning+Engineer" alt="Typing SVG" />
+</div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```yaml
+name: Keshav Srinivas M
+located_in: Chennai, Tamil Nadu, India
+current_job: Data Engineer Intern @ Celebal Technologies
+education: ["B.Tech in AI & Data Science", "CGPA: 9.26/10"]
+company: St. Joseph's College of Engineering
+
+fields_of_interests:
+  - "Data Science & Analytics"
+  - "Machine Learning & AI"
+  - "Cloud Computing (AWS & GCP)"
+  - "Full Stack Development"
+  - "Competitive Programming"
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+Keshav+Srinivas+M;Data+Science+%26+AI+Enthusiast;Cloud+Computing+Specialist;Full-Stack+Developer)
+currently_learning: ["Advanced ML Algorithms", "Cloud Architecture", "Generative AI"]
+2025_goals: ["Contribute to Open Source", "Build AI Solutions", "Master Cloud Technologies"]
+hobbies: ["Problem Solving", "Tech Blogging", "Coding Challenges"]
+```
 
-</div>
+---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Experience Timeline**
 
 <div align="center">
-  
-```diff
-+ Passionate about AI/ML | Cloud Computing | Full-Stack Development
-! 13x AWS Certified | Oracle AI Certified | Google Cloud Facilitator
-# Open to collaborations and innovative projects
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-🛠 Tech Stack
+
+🔹 **Data Engineer Intern** @ **Celebal Technologies** *(May 2025 - Present)*
+- Data integration, ETL processes, and cloud-based data solutions
+- Designing scalable data architectures with cross-functional teams
+
+🔹 **Backend Developer Intern** @ **Dexwox Innovation** *(March 2024 - Present)*
+- Building robust APIs and server-side applications
+- Working with Node.js, Express, and MongoDB
+
+🔹 **Google Cloud Arcade Facilitator'25** @ **Google Cloud** *(April 2025 - June 2025)*
+- Leading cloud computing workshops and hands-on labs
+
+🔹 **AI Intern** @ **Edunet Foundation (AICTE)** *(November 2024 - December 2024)*
+- Machine learning and data analysis projects under AICTE
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Tech Stack**
+
 <div align="center">
-Programming Languages
-https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
-https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
 
-Web Technologies
-https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+### **Languages**
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
 
-Cloud & DevOps
-https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tensorflow" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker" />
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
 
 </div>
-📊 GitHub Stats
-<div align="center"><!-- GitHub Stats Cards --><a href="https://github.com/keshsrini"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshsrini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshsrini&layout=compact&langs_count=8&theme=algolia"/> </a><!-- GitHub Streak Stats --><img src="https://github-readme-streak-stats.herokuapp.com/?user=keshsrini&theme=algolia" alt="keshsrini" /><!-- GitHub Activity Graph -->
-https://github-readme-activity-graph.vercel.app/graph?username=keshsrini&theme=react-dark&hide_border=true&area=true
 
-</div>
-🏆 GitHub Trophies
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **GitHub Analytics**
+
 <div align="center">
-https://github-profile-trophy.vercel.app/?username=keshsrini&theme=algolia&no-frame=true&no-bg=true&margin-w=4
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshsrini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshsrini&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshsrini&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshsrini&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Achievements & Certifications**
+
+<div align="center">
+
+| 🏆 **Achievement** | 📜 **Certification** |
+|:------------------:|:--------------------:|
+| 🔥 100 Days LeetCode Challenge | 🏅 Oracle Certified AI Foundations Associate |
+| 💡 270+ LeetCode Problems Solved | 🎯 HackerRank Problem Solving (Intermediate) |
+| 🏅 ICPC 2024 Participant | 🌐 Google Cloud Computing Foundations |
+| 📚 9.26 CGPA Achiever | 🐍 Python for Data Science - NPTEL |
+| 🎖️ 13X AWS Badges | ⭐ HackerRank Problem Solving (Basic) |
 
 </div>
-💼 Experience
-<details> <summary><b>Data Engineer Intern - Celebal Technologies</b></summary> <br>
-🕰️ Duration: May 2025 - Present
-📍 Location: Jaipur, India (Remote)
-📌 Responsibilities:
 
-Working on data integration and ETL processes
+---
 
-Developing cloud-based data solutions
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Coding Activity**
 
-Collaborating with cross-functional teams
-
-Designing scalable data architectures
-
-</details><details> <summary><b>Backend Developer Intern - Dexwox Innovation</b></summary> <br>
-🕰️ Duration: March 2024 - Present
-📍 Location: Remote
-📌 Responsibilities:
-
-Building robust APIs and server-side applications
-
-Using Node.js, Express, and MongoDB
-
-Creating scalable web applications
-
-Implementing backend logic
-
-</details><!-- More experience items in same format -->
-🎓 Education
-<table> <tr> <td width="30%"> <div align="center"> <img src="https://via.placeholder.com/150" alt="SJCE Logo" width="100"> <br> <b>St. Joseph's College of Engineering</b> </div> </td> <td> <b>Bachelor of Technology in AI & Data Science</b><br> 🕰️ 2023 - 2027 | CGPA: 9.26/10<br> 📍 Chennai, Tamil Nadu<br> 📌 Relevant Coursework:<br> - Data Structures & Algorithms<br> - Machine Learning<br> - Cloud Computing<br> - Database Management Systems </td> </tr> <!-- More education items in same format --> </table>
-🔥 LeetCode Stats
 <div align="center">
-https://leetcard.jacoblin.cool/keshavsrini?theme=dark&font=Roboto
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshsrini&custom_title=Keshav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=C9D1D9&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Snake Game**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/keshsrini/keshsrini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Let's Connect!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/keshavsrini1525/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/keshsrini)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/keshavsrini/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=00EA64)](https://www.hackerrank.com/profile/keshavsrinivasm)
+[![Credly](https://img.shields.io/badge/Credly-FF5800?style=for-the-badge&logo=credly&logoColor=white&labelColor=FF5800)](https://www.credly.com/users/keshav-srinivas-m)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/keshavsrini)
 
 </div>
-📜 Certifications
-<div align="center"><!-- Certification Badges --><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" title="Oracle AI Certified"> <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" title="AWS Certified"> <img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="80" title="Google Cloud Certified"></div>
-🎯 Goals for 2025
-Complete AWS Professional Certification
 
-Publish 2 research papers in AI/ML
+---
 
-Contribute to 5+ open source projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Contact Me**
 
-Develop a SaaS product
-
-📫 Let's Connect!
 <div align="center">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-</div><div align="center">
-https://profile-counter.glitch.me/keshsrini/count.svg
+📧 **Email:** keshsrinivasm@gmail.com
 
+💬 **Let's discuss:** Data Science, AI, Cloud Technologies, or just say Hi!
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshsrini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>⭐️ From <a href="https://github.com/keshsrini">Keshav Srinivas M</a></h3>
 </div>
