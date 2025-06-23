@@ -33,7 +33,7 @@ const keshav = {
     
     education: {
         degree: "B.Tech AI & Data Science",
-        institution: "St. Joseph's College",
+        institution: "St. Joseph's College Of Engineering, Chennai, Tamil Nadu",
         cgpa: "9.26/10 ⭐"
     },
     
