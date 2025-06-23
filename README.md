@@ -1,105 +1,135 @@
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to [Your Name]'s profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+# Keshav Srinivas M - Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
+## 👋 Hello, I'm Keshav Srinivas M
 
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=safari&logoColor=white)](your-portfolio-url)
+**Celebal Summer Intern | Oracle Certified Foundation AI Associate 🏆 | 13X AWS Badges🎖️ | 2X HackerRank Certified⭐ | Google Cloud Arcade Facilitator'25 | Cloud Enthusiast☁️ | MERN Developer | Programming Fanatic | Data Science Learner | Machine Learning**
 
 ## 🚀 About Me
 
-```javascript
-const aboutMe = {
-    pronouns: "[your pronouns]",
-    code: ["Javascript", "Python", "React", "Node.js"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Bootstrap", "Tailwind", "SASS"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    currentFocus: "Building Robust Web Applications",
-    funFact: "[Your fun fact here]"
-};
-```
+Hello! My name is Keshav. I am a trailblazing data science and machine learning professional with hands-on expertise in AWS cloud technologies. Skilled in leveraging advanced analytics, generative AI, and cloud infrastructures to drive transformative business outcomes. Recognized as a top academic performer, bringing a relentless passion for uncovering insights and delivering impactful solutions.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
+## 🛠 Technical Skills
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
-</p>
+### Programming Languages
+- Python
+- C
+- C++
 
-## 💻 Tech Stack
+### Web Technologies
+- HTML
+- CSS
+- Node.js
+- React
+- Express
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git" />
-</p>
+### Database Systems
+- MongoDB Atlas
+- Amazon DynamoDB
+- Amazon RDS
 
-## 📊 GitHub Stats
+### Cloud Technologies
+- AWS Cloud
+- GCP Cloud
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+### DevOps & Version Control
+- Git
+- GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
-</div>
+### Specialized Areas
+- NLP
+- Machine Learning
+- Cloud Computing
+- Data Visualization
 
-## 🌟 Featured Projects
+### Mathematical & Statistical Tools
+- Correlation
+- Regression
+- ANOVA
+- Probability Distributions
+- Linear Algebra
 
-<div align="center">
-  <a href="project-url">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=radical" />
-  </a>
-  <a href="project-url">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=radical" />
-  </a>
-</div>
+### Other Tools & Technologies
+- Visual Studio Code
+- Google Colab
+- TensorFlow
+- Flask
+- Postman API
 
-## 🐍 Contribution Graph
+## 💼 Experience
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+### **Data Engineer Intern** - Celebal Technologies
+- **Duration**: May 2025 - Present
+- **Location**: Jaipur, India (Remote)
+- Currently working as a Data Engineer intern, focusing on data integration, ETL processes, and cloud-based data solutions. Collaborating with cross-functional teams to design and implement scalable data architectures.
 
-## 📫 Let's Connect! 
+### **Backend Developer Intern** - Dexwox Innovation
+- **Duration**: March 2024 - Present
+- **Location**: Remote
+- Engaged in backend development projects, focusing on building robust APIs and server-side applications. Utilized technologies such as Node.js, Express, and MongoDB to create scalable web applications.
 
-<div align="center">
-  <a href="your-linkedin-url">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="your-twitter-url">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-  </a>
-  <a href="your-portfolio-url">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png"/>
-  </a>
-</div>
+### **Google Cloud Arcade Facilitator'25** - Google Cloud
+- **Duration**: April 2025 - June 2025
+- **Location**: Virtual
+- Participated in the Google Cloud Arcade program, learning cloud computing concepts and hands-on labs.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+### **AI Intern** - Edunet Foundation (AICTE)
+- **Duration**: November 2024 - December 2024
+- **Location**: Remote
+- Completed an AI internship under the All India Council for Technical Education (AICTE) with Edunet Foundation. Gained hands-on experience in AI technologies, including machine learning and data analysis.
+
+### **Web Developer Intern** - CodeClause
+- **Duration**: July 2024 - August 2024
+- **Location**: Remote
+- Worked as a Web Developer intern, focusing on front-end development. Developed responsive web applications using HTML, CSS, and JavaScript.
+
+## 🎓 Education
+
+### **Bachelor of Technology in Artificial Intelligence and Data Science**
+- **Institution**: St. Joseph's College of Engineering
+- **Duration**: 2023 - 2027
+- **CGPA**: 9.26/10
+- **Location**: Chennai, Tamil Nadu
+
+### **Higher Secondary Education**
+- **Institution**: Jawahar Higher Secondary School - CBSE
+- **Duration**: 2022 - 2023
+- **Percentage**: 92.2%
+- **Location**: Neyveli, Tamil Nadu
+
+### **Secondary Education**
+- **Institution**: Jawahar Higher Secondary School - CBSE
+- **Duration**: 2020 - 2021
+- **Percentage**: 92.4%
+- **Location**: Neyveli, Tamil Nadu
+
+## 🏆 Achievements
+
+- Completed 100 days of LeetCode Challenge
+- Solved 270+ problems on LeetCode
+- Participated in ICPC 2024 Competition
+- Secured 9.26 CGPA in semester examination
+
+## 📜 Certifications
+
+- **Problem Solving (Intermediate)** - HackerRank (April 2025)
+- **Problem Solving (Basic)** - HackerRank (December 2024)
+- **Google Cloud Computing Foundations** - NPTEL (November 2024)
+- **Oracle Certified AI Foundations Associate** - Oracle (October 2024)
+- **Python for Data Science** - NPTEL (April 2024)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavsrini1525/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshsrini)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/keshavsrini/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/keshavsrinivasm)
+[![Credly](https://img.shields.io/badge/Credly-FF5800?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/keshav-srinivas-m)
+
+## 📫 Contact Me
+
+- **Email**: keshsrinivasm@gmail.com
+- **Instagram**: [@keshavsrini](https://www.instagram.com/keshavsrini)
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername)
+
+⭐️ From [Keshav Srinivas M](https://github.com/keshsrini)
