@@ -7,6 +7,10 @@
 </div>
 
 <div align="center">
+  <img src="URL_TO_YOUR_PHOTO" width="200" style="border-radius: 50%; border: 3px solid #00F5FF; margin: 20px 0;"/>
+</div>
+
+<div align="center">
   <img width="100%" src="https://github.com/aaditya29/aaditya29/blob/master/matrix.gif" />
 </div>
 
