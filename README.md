@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="URL_TO_YOUR_PHOTO" width="200" style="border-radius: 50%; border: 3px solid #00F5FF; margin: 20px 0;"/>
+  <img src="assets/pp.png" width="200" style="border-radius: 50%; border: 3px solid #00F5FF; margin: 20px 0;"/>
 </div>
 
 <div align="center">
