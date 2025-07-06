@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe;%F0%9F%A7%A0+Oracle+AI+Certified+%7C+13X+AWS+Badges;%E2%9A%A1+270%2B+LeetCode+Problems+Solved;%F0%9F%8C%9F+Transforming+Ideas+into+Intelligence" alt="Typing Animation"/>
 </div>
 
-<div align="center">
-  <img src="assets/pp.png" width="200" style="border-radius: 50%; border: 3px solid #00F5FF; margin: 20px 0;"/>
-</div>
+
 
 <div align="center">
   <img width="100%" src="https://github.com/aaditya29/aaditya29/blob/master/matrix.gif" />
